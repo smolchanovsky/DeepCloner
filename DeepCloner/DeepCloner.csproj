@@ -57,6 +57,7 @@
     <Compile Include="Helpers\ShallowClonerGenerator.cs" />
     <Compile Include="Helpers\ShallowObjectCloner.cs" />
     <Compile Include="Helpers\TypeCreationHelper.cs" />
+    <Compile Include="ICloneableObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
